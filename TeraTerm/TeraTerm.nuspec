@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>teraterm</id>
+    <title>Tera Term</title>
+    <version>4.84</version>
+    <authors>T. Teranishi, Yutaka Hirata</authors>
+    <owners>mew1033</owners>
+    <summary>Tera Term is an open source software terminal emulator supporting the UTF-8 protocol.</summary>
+    <description>Tera Term is an open-source, free, software implemented, terminal emulator program. It emulates different types of computer terminals, from DEC VT100 to DEC VT382. It supports telnet, SSH 1 and 2, and serial port connections. It also has a built-in macro scripting language (supporting Oniguruma regular expressions) and a few other useful plugins.</description>
+    <projectUrl>http://ttssh2.sourceforge.jp/</projectUrl>
+    <tags>teraterm terminal emulator ssh admin</tags>
+    <licenseUrl>http://ttssh2.sourceforge.jp/manual/en/about/copyright.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/mew1033/ChocolateyPackages/master/icons/TeraTerm.png</iconUrl>-->
+    <!--<releaseNotes></releaseNotes> -->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
