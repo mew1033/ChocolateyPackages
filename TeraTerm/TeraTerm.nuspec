@@ -12,7 +12,7 @@
     <tags>teraterm terminal emulator ssh admin</tags>
     <licenseUrl>http://ttssh2.sourceforge.jp/manual/en/about/copyright.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/mew1033/ChocolateyPackages/master/icons/TeraTerm.png</iconUrl>-->
+    <iconUrl>https://cdn.rawgit.com/mew1033/ChocolateyPackages/ba84e4e4dc3d0823d6976d5dd1221cad7eec4f6e/icons/TeraTerm.png</iconUrl>
     <!--<releaseNotes></releaseNotes> -->
   </metadata>
   <files>
